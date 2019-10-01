@@ -1,0 +1,4 @@
+selenium
+validators
+bs4
+requests
