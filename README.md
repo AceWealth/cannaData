@@ -1,5 +1,5 @@
 <h1>CannaData</h1>
-<p>"harvest.py" is used to scrape data from leafly and create "strainsDB.json"</p>
+<p>"harvest.py" is used to scrape data from leafly.com and create "strainsDB.json" which has 3175 objects.</p>
 <p>The following is a sample object within "strainsDB.json":</p>
 
 ```json
